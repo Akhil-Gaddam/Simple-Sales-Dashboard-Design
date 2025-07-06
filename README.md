@@ -22,10 +22,10 @@ Superstore_Sales.csv (Order Date, Region, Category, Sales, Profit).
 
 ## Dashboard Visuals
 
--**Line Chart:** Sales over Months (Month-Year)
--**Bar Chart:** Sales by Region
--**Donut Chart:** Sales by Category
--**Slicer:** Region filter for interactive analysis.
+- **Line Chart:** Sales over Months (Month-Year)
+- **Bar Chart:** Sales by Region
+- **Donut Chart:** Sales by Category
+- **Slicer:** Region filter for interactive analysis.
 
 ## Screenshots
 ![Dashboard_Screenshot_6](https://github.com/user-attachments/assets/92cf0be0-1586-4090-b7b0-350c8a80c2ab)
@@ -38,10 +38,10 @@ Superstore_Sales.csv (Order Date, Region, Category, Sales, Profit).
 
 ## Key Insights
 
-1️.Sales steadily increase toward Q4, peaking in November and December.
-2️. The West region has the highest sales, followed by the East, indicating strong regional performance.
-3️. Technology contributes the highest share of sales (36.4%), followed closely by Office Supplies and Furniture.
-4️. Sales dip during mid-year months, indicating possible seasonal or sales cycle factors.
+1️- Sales steadily increase toward Q4, peaking in November and December.
+2️- The West region has the highest sales, followed by the East, indicating strong regional performance.
+3️- Technology contributes the highest share of sales (36.4%), followed closely by Office Supplies and Furniture.
+4️- Sales dip during mid-year months, indicating possible seasonal or sales cycle factors.
 
 ## Learnings
 
