@@ -22,10 +22,10 @@ Superstore_Sales.csv (Order Date, Region, Category, Sales, Profit).
 
 ## Dashboard Visuals
 
-**Line Chart:** Sales over Months (Month-Year)
-**Bar Chart:** Sales by Region
-**Donut Chart:** Sales by Category
-**Slicer:** Region filter for interactive analysis.
+-**Line Chart:** Sales over Months (Month-Year)
+-**Bar Chart:** Sales by Region
+-**Donut Chart:** Sales by Category
+-**Slicer:** Region filter for interactive analysis.
 
 ## Screenshots
 ![Dashboard_Screenshot_6](https://github.com/user-attachments/assets/92cf0be0-1586-4090-b7b0-350c8a80c2ab)
