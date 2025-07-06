@@ -38,10 +38,10 @@ Superstore_Sales.csv (Order Date, Region, Category, Sales, Profit).
 
 ## Key Insights
 
-1️- Sales steadily increase toward Q4, peaking in November and December.
-2️- The West region has the highest sales, followed by the East, indicating strong regional performance.
-3️- Technology contributes the highest share of sales (36.4%), followed closely by Office Supplies and Furniture.
-4️- Sales dip during mid-year months, indicating possible seasonal or sales cycle factors.
+- Sales steadily increase toward Q4, peaking in November and December.
+- The West region has the highest sales, followed by the East, indicating strong regional performance.
+- Technology contributes the highest share of sales (36.4%), followed closely by Office Supplies and Furniture.
+- Sales dip during mid-year months, indicating possible seasonal or sales cycle factors.
 
 ## Learnings
 
